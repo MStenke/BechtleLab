@@ -1,4 +1,4 @@
-.. title:: Virtual Technology Bootcamp
+.. title:: Bechtle Technology Bootcamp
 
 .. toctree::
    :maxdepth: 2
