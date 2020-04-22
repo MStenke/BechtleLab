@@ -195,7 +195,7 @@ Die folgenden virtuellen Netzwerke wurden wie folgt vorkonfiguriert:
      - **Sekundäres** Netzwerk
    * - **VLAN**
      - 0
-     - 991
+     - 921
    * - **Netzwerk IP Adresse**
      - 10.42.92.0
      - 10.42.92.128
