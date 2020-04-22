@@ -26,21 +26,21 @@ Infrastruktur IPs
      - Hypervisors
      - IPMI
    * - **Position A**
-     - 10.42.99.29
-     - 10.42.99.25
-     - 10.42.99.33
+     - 10.42.92.29
+     - 10.42.92.25
+     - 10.42.92.33
    * - **Position B**
-     - 10.42.99.30
-     - 10.42.99.26
-     - 10.42.99.34
+     - 10.42.92.30
+     - 10.42.92.26
+     - 10.42.92.34
    * - **Position C**
-     - 10.42.99.31
-     - 10.42.99.27
-     - 10.42.99.35
+     - 10.42.92.31
+     - 10.42.92.27
+     - 10.42.92.35
    * - **Position D**
-     - 10.42.99.32
-     - 10.42.99.28
-     - 10.42.99.36
+     - 10.42.92.32
+     - 10.42.92.28
+     - 10.42.92.36
 
 .. list-table::
    :widths: 20 10
@@ -49,9 +49,9 @@ Infrastruktur IPs
    * - Services
      - IP-Adressen
    * - **Virtuelle IP Adresse Cluster**
-     - 10.42.99.37
+     - 10.42.92.37
    * - **iSCSI Data Services IP**
-     - 10.42.99.38
+     - 10.42.92.38
 
 
 Virtuelle Maschinen
@@ -67,16 +67,16 @@ Die folgenden VMs wurden u.a. bereits auf dem Cluster ausgerollt:
      - IP-Adresse
      - Beschreibung
    * - **Prism Central**
-     - 10.42.99.39
+     - 10.42.92.39
      - Nutanix Prism Central
    * - **AutoAD**
-     - 10.42.99.41
+     - 10.42.92.41
      - ntnxlab.local Domain Controller
    * - **NTNX-BootcampFS-1**
-     - 10.42.99.53 / 10.42.99.174
+     - 10.42.92.53 / 10.42.92.174
      - Nutanix File Server
    * - **NTNX-FA-BootcampFileAnalytics**
-     - 10.42.99.132
+     - 10.42.92.132
      - Nutanix File Analytics
 
 
@@ -132,13 +132,13 @@ Die folgende Tabelle führt die standardmäßig hinterlegten Zugangsdaten für d
     - ADMIN
   * - **Prism Element**
     - admin
-    - ntnx4Stgt!
+    - ntnx4Bechtle!
   * - **Prism Element VM's**
     - nutanix
-    - ntnx4Stgt!
+    - ntnx4Bechtle!
   * - **Prism Central**
     - admin
-    - ntnx4Stgt!
+    - ntnx4Bechtle!
   * - **Prism Central VM**
     - nutanix
     - nutanix/4u
@@ -197,23 +197,23 @@ Die folgenden virtuellen Netzwerke wurden wie folgt vorkonfiguriert:
      - 0
      - 991
    * - **Netzwerk IP Adresse**
-     - 10.42.99.0
-     - 10.42.99.128
+     - 10.42.92.0
+     - 10.42.92.128
    * - **Netzmaske**
      - 255.255.255.128 (/25)
      - 255.255.255.128 (/25)
    * - **Default Gateway**
-     - 10.42.99.1
-     - 10.42.99.129
+     - 10.42.92.1
+     - 10.42.92.129
    * - **IP Address Management (IPAM)**
      - Aktiviert
      - Aktiviert
    * - **DHCP Pool**
-     - 10.42.99.50  - 125
-     - 10.42.99.132 - 253
+     - 10.42.92.50  - 125
+     - 10.42.92.132 - 253
    * - **Domain**
      - NTNXLAB.local
      - NTNXLAB.local
    * - **DNS**
-     - 10.42.99.41 (DC VM)
-     - 10.42.99.41 (DC VM)
+     - 10.42.92.41 (DC VM)
+     - 10.42.92.41 (DC VM)

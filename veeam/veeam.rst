@@ -39,8 +39,6 @@ While this lab focuses on configuring Veeam and backup jobs within Veeam for AHV
 
 .. figure:: images/mine_dashboard.png
 
-Because we are using shared clusters here at Nutanix Global Tech Summit, we cannot deploy Nutanix Mine with Veeam to the lab clusters, but for more information, including details, setup instructions, and sales assets, check out `<https://ntnx.tips/mine>`_
-
 
 Deploying Veeam Backup Server
 +++++++++++++++++++++++++++++
@@ -252,7 +250,7 @@ Deploying the AHV Backup Proxy
 
    .. figure:: images/8.png
 
-   .. note:: With VBR v10, Veeam supports the ability to deploy the Backup Proxy for AHV from the VBR console, however with this pre-production release here at Tech Summit the deployment fails, so we will manually deploy the Veeam Nutanix AHV Backup Proxy Manually and import it into the VBR
+   .. note:: With VBR v10, Veeam supports the ability to deploy the Backup Proxy for AHV from the VBR console, however with this pre-production release here in this lab the deployment fails, so we will manually deploy the Veeam Nutanix AHV Backup Proxy Manually and import it into the VBR
 
 #. From Prism, click **+ Create VM** to create a new VM.
 
