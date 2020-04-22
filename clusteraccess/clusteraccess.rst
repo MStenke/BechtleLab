@@ -11,8 +11,9 @@ Die Lab Umgebung stehen physisch in der USA im Bundesstaat Arizona (Phoenix). Um
 Hierfür stehen 3 Optionen zur Auswahl: **Nutanix Frame VDI**, **Pulse VPN** *oder* **Parallel VDI Zugang.**
 
 Die Lab-Zugangsdaten sind folgende:
-- Benutzername: PHX-POC092-User01, PHX-POC092-User02 … PHX-POC092-User20 etc.
-- Password: ntnx4Bechtle!
+
+- **Benutzername**: PHX-POC092-User01, PHX-POC092-User02 … PHX-POC092-User20 etc.
+- **Password**: ntnx4Bechtle!
 
 Frame VDI Client
 ++++++++++++++++
